@@ -12,6 +12,13 @@ Movie Data: The primary dataset used for this analysis is the "Movie Data.xmls" 
 Excel Power Query for Data Cleaning.
 Excel Pivot Tables for Data Analysis, Creating Reports, and Visualizations.
 
+## Data Cleaning and Preparation
+In the initial data preparation phase, we performed the following tasks:
+
+  Data loading and inspection.
+  Handling errors, handling missing values.
+  Data cleaning and formatting. 
+
 ## Results and Findings
 
 As an example, I identified the best and the worst movies by ROI: 
